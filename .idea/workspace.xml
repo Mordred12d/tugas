@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212c35d1-d3a4-466b-903c-b1e1a4733933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package tugas 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ipk.java" afterDir="false" />
+    <list default="true" id="212c35d1-d3a4-466b-903c-b1e1a4733933" name="Changes" comment="percabafan-tugas-per3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +53,25 @@
       <updated>1680442836396</updated>
       <workItem from="1680442838123" duration="93000" />
       <workItem from="1680442943042" duration="2565000" />
-      <workItem from="1680469761347" duration="6983000" />
+      <workItem from="1680469761347" duration="7379000" />
+      <workItem from="1680655312452" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="percabafan-tugas-per3">
+      <created>1680493978492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680493978492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="percabafan tugas per3" />
+    <MESSAGE value="percabafan-tugas-per3" />
+    <option name="LAST_COMMIT_MESSAGE" value="percabafan-tugas-per3" />
   </component>
 </project>
